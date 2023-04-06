@@ -14,3 +14,5 @@
 ![JMeter Screenshot.](./screenshots/screenshot12.png)
 ![JMeter Screenshot.](./screenshots/screenshot13.png)
 ![JMeter Screenshot.](./screenshots/screenshot14.png)
+![JMeter Screenshot.](./screenshots/screenshot15.png)
+![JMeter Screenshot.](./screenshots/screenshot16.png)
