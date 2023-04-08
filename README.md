@@ -23,4 +23,5 @@ I was learning mainly from [Rahul Shetty's Udemy course](https://www.udemy.com/c
 ![JMeter Screenshot.](./screenshots/screenshot19.png)
 ![JMeter Screenshot.](./screenshots/screenshot20.png)
 ![JMeter Screenshot.](./screenshots/screenshot21.png)
+![JMeter Screenshot.](./screenshots/screenshot22.png)
 
